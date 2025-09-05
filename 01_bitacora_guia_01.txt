@@ -15,3 +15,17 @@ Yahoo: Utiliza un sistema llamado webRank, que mide la popularidad de una pàgin
 
 Bing: Emplea un algoritmo que analiza varios factores para placificar las paginas. Entre ellos està el contenido de la pàgina , las palabras claves que contiene, y la cantidad de los sitios web que enlazan a esa pàgina 
 
+HERRAMIENTAS PARA LA DETECCIÓN DE IA
+Estas son las herramientas de detección de IA utilizadas en algoritmos avanzados para analizar patrones en el contenido que podria indicar que ha sido generado por modelos GPT 
+
+ZeroGPT
+Analiza texto para determinar la probabilidad de que haya sido generado por IA. Proporciona
+porcentajes de "autenticidad" en el contenido.
+
+Originality.ai
+Detecta texto generado por IA y verifica el plagio. Frecuentemente utilizado por educadores,
+editores y profesionales del contenido.
+
+GPTZero
+Orientado a educadores para identificar el uso de IA en tareas académicas. Ofrece un
+análisis detallado basado en puntuaciones de "perplejidad" y "aleatoriedad".

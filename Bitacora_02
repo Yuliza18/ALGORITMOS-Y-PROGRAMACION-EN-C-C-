@@ -24,3 +24,4 @@ El proposito de cada comandofue aprender y practicar las funciones bàsicas para
 Nos ofrece ventajas como mayor rapidez para ejecutar tareas, un control màs preciso y avanzados sobre el sistem
 ¿Què comandos podria facilitar la automatizaciòn de tareas repetitivas?
  
+Para automatizar tareas repetitivas en GNU/Linux se usan comandos como mkdir, cd, touch, cp, mv y rm, que permiten crear carpetas, navegar, crear, copiar, renombrar y eliminar archivos o directorios. Estos comandos se pueden combinar en scripts para ejecutar varias acciones automáticamente y ahorrar tiempo.
